@@ -12,7 +12,7 @@ package com.sh.git;
 
 public class main { 
 	public void master() {  // 이러면 feature랑 충돌안날거같은데 
-		
+		System.out.println("master !!! ");
 	}
 
 	public static void main(String[] args) {
