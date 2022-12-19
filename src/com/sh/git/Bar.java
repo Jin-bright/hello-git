@@ -1,5 +1,5 @@
 package com.sh.git;
 
-public class Foo {
+public class Bar {
 
 }
