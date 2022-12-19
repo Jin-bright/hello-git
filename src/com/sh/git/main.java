@@ -10,7 +10,10 @@ package com.sh.git;
  *
  */
 
-public class main {
+public class main { 
+	public void master() {  // 이러면 feature랑 충돌안날거같은데 
+		
+	}
 
 	public static void main(String[] args) {
 		System.out.println("Hello world");
