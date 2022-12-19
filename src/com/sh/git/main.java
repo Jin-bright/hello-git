@@ -19,5 +19,9 @@ public class main {
 		System.out.println("Hello world");
 		System.out.println("Hello git");
 	}
+	
+	public void feature() { //충돌나는 상황 
+		
+	}
 
 }
