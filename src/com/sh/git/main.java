@@ -14,6 +14,7 @@ public class main {
 	public void master() {  // 이러면 feature랑 충돌안날거같은데 
 		System.out.println("master !!! ");
 		System.out.println("origin/master에서 작성함(12/19 14:43분) !!! ");
+		System.out.println("origin/master에서 작성함__22(12/19 14:48분) !!! ");
 	}
 
 	public static void main(String[] args) {
