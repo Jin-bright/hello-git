@@ -21,7 +21,7 @@ public class main {
 	}
 	
 	public void feature() { //충돌나는 상황 
-		
+		System.out.println("master !!!! ( feature랑 충돌하냐 ) ");
 	}
 
 }
